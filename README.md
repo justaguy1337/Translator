@@ -1,11 +1,11 @@
-#**Installation**
+# **Installation**
 
 To install the used module use ```pip install translate``` in termimal
 
 Then it is read to use.
 
 
-#**Description**
+# **Description**
 
 It is a terminal based translator.
 It requires internet connection
