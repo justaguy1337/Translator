@@ -10,4 +10,5 @@ Then it is ready to use.
 It is a terminal based translator.<br>
 It requires internet connection.<br>
 It translate from English to other language (using ISO 169 Codes).<br>
+It keeps record of all Translated data in a text data file.<br>
 You can refer ISO codes from https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
